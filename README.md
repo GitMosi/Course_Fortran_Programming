@@ -1,4 +1,4 @@
-# Course_Fortran_Programming
+# Course Fortran Programming
 
 Collection of various Fortran projects completed during coursework at K.N.T University of Technology and personal programming exercises.
 
