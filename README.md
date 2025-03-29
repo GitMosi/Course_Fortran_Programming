@@ -6,10 +6,10 @@ Collection of various Fortran projects completed during coursework at K.N.T Univ
 - [Course: Programming]
   * Superviser: S. Farhad Masoudi
   * University: K.N.T University of Technology
-  * Semester: Fall/2019
+  * Semester: Fall/2018
 
 ## Book Projects
 - [Book: Fundamentals of Programming in Fortran and C++]
   * Authors: S. Farhad Masoudi, Fatemeh S. Rasouli
   * Publisher: K.N.T University of Technology
-  * Year: Spring 2018
+  * Year: 2018
